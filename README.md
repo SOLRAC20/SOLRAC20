@@ -26,7 +26,6 @@ Versionamento de código com Git
 📈 Em constante evolução
 Estou sempre buscando aprender mais e evoluir como desenvolvedor, acompanhando boas práticas, novas ferramentas e contribuindo com projetos que me desafiam a ir além.
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solrac20&label=Profile%20views&color=0e75b6&style=flat" alt="solrac20" /> </p>
 
