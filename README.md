@@ -1,18 +1,18 @@
-👋 Olá! Eu sou Desenvolvedor Front-End
+Olá! Eu sou Desenvolvedor Front-End
 Sou um desenvolvedor apaixonado por criar interfaces modernas, funcionais e intuitivas. Trabalho principalmente com tecnologias como Angular, React, Laravel, TypeScript e JavaScript, entregando soluções web de alta qualidade com foco em performance e experiência do usuário.
 
-🚀 Tecnologias que uso
-⚡ Angular — Aplicações web robustas e escaláveis
+Tecnologias que uso
+Angular — Aplicações web robustas e escaláveis
 
-⚛️ React — Interfaces modernas e componentizadas
+React — Interfaces modernas e componentizadas
 
-🧠 TypeScript — Código mais seguro e legível
+TypeScript — Código mais seguro e legível
 
-🌐 JavaScript — Lógica dinâmica e interação com o usuário
+JavaScript — Lógica dinâmica e interação com o usuário
 
-🛠️ Laravel — Back-end sólido com APIs RESTful e integrações seguras
+Laravel — Back-end sólido com APIs RESTful e integrações seguras
 
-🛠️ O que eu faço
+O que eu faço
 Desenvolvimento de SPAs com Angular e React
 
 Integração com APIs REST e serviços externos
